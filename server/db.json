@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Do Laundry",
+      "description": "Wash, dry, and fold",
+      "dateCreated": "2021-9-30",
+      "complete": false,
+      "dateCompleted": "",
+      "user": "testuser"
+    },
+    {
+      "id": 2,
+      "title": "Pay Bills",
+      "description": "Car, Electric, Gas",
+      "dateCreated": "2021-9-31",
+      "complete": true,
+      "dateCompleted": "2021-11-9",
+      "user": "testuser"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "testuser",
+      "password": "badpassword"
+    }
+  ]
+}
